@@ -260,7 +260,7 @@ header {
     font-size: 32px;
 }
 
-.contact-info div  p {
+.contact-info div p, .contact-info address {
     margin: 20px 0;
     line-height: 1.5;
     font-size: 20px;
